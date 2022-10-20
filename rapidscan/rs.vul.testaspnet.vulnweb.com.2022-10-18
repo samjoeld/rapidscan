@@ -1,0 +1,11 @@
+ASP.Net Misconfiguration - Checks for ASP.Net Misconfiguration.
+------------------------
+
+--2022-10-18 00:14:20--  http://testaspnet.vulnweb.com/%7C~.aspx
+Resolving testaspnet.vulnweb.com (testaspnet.vulnweb.com)... 44.238.29.244
+Connecting to testaspnet.vulnweb.com (testaspnet.vulnweb.com)|44.238.29.244|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2022-10-18 00:14:20 ERROR 500: Internal Server Error.
+
+
+
